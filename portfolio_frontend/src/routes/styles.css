@@ -1,37 +1,13 @@
-/**
- * Ultralight template styles - minimal and clean
- */
+/* Route styles to complement the global theme */
 
-.page-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  min-height: 100vh;
-  padding: 2rem;
+:target {
+  scroll-margin-top: 72px; /* account for sticky navbar */
 }
 
-.main-title {
-  font-size: 3rem;
-  font-weight: 300;
-  text-align: center;
-  color: var(--primary-color);
-  margin: 0;
-  letter-spacing: -0.02em;
-  line-height: 1.2;
+h1, h2, h3 {
+  letter-spacing: -0.015em;
 }
 
-@media (max-width: 768px) {
-  .main-title {
-    font-size: 2rem;
-  }
-  
-  .page-container {
-    padding: 1rem;
-  }
-}
-
-@media (max-width: 480px) {
-  .main-title {
-    font-size: 1.5rem;
-  }
+h3 {
+  font-size: 1.1rem;
 }

@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Oceanic UI Kit",
+    "description": "A component library emphasizing accessibility and performance with ocean-inspired accents.",
+    "tech": ["Qwik", "TypeScript", "CSS"],
+    "image": "",
+    "url": "#",
+    "repo": "#"
+  },
+  {
+    "title": "Realtime Dashboard",
+    "description": "Responsive dashboard with charts, real-time updates, and dark/light theming.",
+    "tech": ["Qwik", "WebSockets", "D3.js"],
+    "image": "",
+    "url": "#",
+    "repo": "#"
+  },
+  {
+    "title": "Portfolio Builder",
+    "description": "Static site generator for personal portfolios with metadata and SEO baked in.",
+    "tech": ["Qwik City", "Vite", "Markdown"],
+    "image": "",
+    "url": "#",
+    "repo": "#"
+  },
+  {
+    "title": "Design Tokens Tool",
+    "description": "Manage and export cross-platform design tokens for multi-brand systems.",
+    "tech": ["TypeScript", "Node.js"],
+    "image": "",
+    "url": "#",
+    "repo": "#"
+  },
+  {
+    "title": "Micro Animations",
+    "description": "A collection of subtle UI animations to improve perceived performance.",
+    "tech": ["CSS", "WAAPI"],
+    "image": "",
+    "url": "#",
+    "repo": "#"
+  },
+  {
+    "title": "Forms UX Lab",
+    "description": "A set of high-quality form patterns focusing on accessibility and validation.",
+    "tech": ["Qwik", "ARIA", "CSS"],
+    "image": "",
+    "url": "#",
+    "repo": "#"
+  }
+]

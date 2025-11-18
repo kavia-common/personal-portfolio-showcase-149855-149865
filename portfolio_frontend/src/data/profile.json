@@ -1,0 +1,12 @@
+{
+  "name": "Your Name",
+  "role": "Frontend Engineer",
+  "summary": "I specialize in building performant, accessible, and delightful web experiences. My work balances clean architecture, thoughtful UX, and pixel-perfect implementation.",
+  "highlights": [
+    "Focus on web performance and Core Web Vitals",
+    "Accessibility-first approach for inclusive experiences",
+    "Modern tooling and component-driven architectures",
+    "Strong collaboration with design and product teams"
+  ],
+  "avatar": ""
+}

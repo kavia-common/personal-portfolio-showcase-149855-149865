@@ -1,0 +1,8 @@
+[
+  { "name": "Qwik", "level": "90%", "category": "Framework" },
+  { "name": "TypeScript", "level": "90%", "category": "Language" },
+  { "name": "Accessibility (a11y)", "level": "85%", "category": "Best Practices" },
+  { "name": "CSS / Responsive Design", "level": "90%", "category": "Style" },
+  { "name": "Performance Optimization", "level": "85%", "category": "Best Practices" },
+  { "name": "Vite / Build Tools", "level": "80%", "category": "Tooling" }
+]
